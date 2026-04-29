@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+openpyxl
+lucide-react-python # Not strictly needed if using raw HTML for icons, but good for future
